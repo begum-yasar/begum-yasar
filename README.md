@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi, this is Begüm. I am an MSc. student in the Linguistics Department at Universität Potsdam. I am currently working in the project [SFB 1287 - Limits of Variability in Language](https://www.sfb1287.uni-potsdam.de/en/overview/). In the project, we collect data from different (S)VO and (S)OV languages and investigate the systematic syntactic differences between them.
+
+I am not only interested in theoretical linguistics but also in the intersection of sociolinguistics and computational linguistics. 
+
+Outside academia, I am an avid binge watcher and a crocheter. 
+
 <!--
 **begum-yasar/begum-yasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
