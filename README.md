@@ -4,8 +4,6 @@ Hi, this is Begüm. I am an MSc. student in the Linguistics Department at Univer
 
 Besides theoretical linguistics, I am also interested in the intersection of sociolinguistics and computational linguistics. 
 
-Outside academia, I am an avid binge watcher and a crocheter. 
-
 <!--
 **begum-yasar/begum-yasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
